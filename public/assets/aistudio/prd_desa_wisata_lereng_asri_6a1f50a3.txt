@@ -1,0 +1,24 @@
+# Product Requirements Document (PRD)
+Nama Produk: Website Profil & Pemesanan Desa Wisata Lereng Asri
+Versi: 1.0 (MVP)
+
+1. Latar Belakang & Problem Statement:
+Sentralisasi informasi destinasi, paket wisata, daftar harga, dan pemesanan cepat via WhatsApp.
+
+2. Tujuan:
+- Sentralisasi Informasi
+- Meningkatkan Konversi Kunjungan via Click-to-Chat WhatsApp
+- Meningkatkan Kredibilitas Desa Wisata
+
+3. Fitur Utama:
+- Profil Desa & Foto Utama (Hero)
+- Daftar Destinasi & Spot Daya Tarik
+- Paket Wisata & Harga Transparan (Edukasi, Camping, Outbound, Homestay)
+- Galeri Foto Kegiatan & Pemandangan
+- Lokasi, Peta & Kontak / Jam Operasional
+- Direct CTA: Tombol Pesan via WhatsApp dengan pre-filled text format
+
+4. Gaya & Tone:
+- Nuansa alam hijau pegunungan & tanah hangat (Forest green, sage, warm terracotta/sand accents)
+- Tipografi ramah, bersih, mudah dibaca, tombol interaktif besar
+- Bahasa Indonesia yang hangat, informatif, dan mengundang.
